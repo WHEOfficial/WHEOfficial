@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://whe.gg/img/whe.svg" style="width: 64px;"/>
+  <img src="https://whe.gg/img/whe.svg" style="width: 4rem;"/>
 </p>
